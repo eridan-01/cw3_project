@@ -1,4 +1,4 @@
-from utils import get_data, delete_empty_operations, get_first_five_sorted_operations, convert_date, convert_number_to, convert_number_from, print_list_operation
+from utils import get_data, delete_empty_operations, get_first_five_sorted_operations, print_list_operation
 from settings import PATH_WITH_FIXTURES
 
 

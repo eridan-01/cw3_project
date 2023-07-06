@@ -7,7 +7,7 @@ def main():
     new_data = delete_empty_operations(data)
     five_operations = get_first_five_sorted_operations(new_data)
     print_list_operation = get_results(five_operations)
-    print(end_)
+    print(print_list_operation)
 
 
 if __name__ == '__main__':
